@@ -1,8 +1,5 @@
 ## Delphi DBF para Google Forms
 
-- Valor Inicial: $ 180
-- Valor Final: $ 135
-- Dólar 5.66
 
 Olá, eu tenho um projeto feito em Delphi na minha empresa.
 
